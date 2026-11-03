@@ -167,7 +167,7 @@ Use this list when you want to:
 | [AssemblyScript](https://github.com/AssemblyScript/assemblyscript) | TypeScript-to-server compilation | A TypeScript-like language that compiles to small WASM modules. | Build | Apache-2.0 |
 | [Extism](https://github.com/extism/extism) | A plugin sandbox service | A portable WASM plugin system with host functions. | B, N | BSD-3-Clause |
 | [Container2wasm](https://github.com/container2wasm/container2wasm) | A container host | Converts container images into WASM images that can run in compatible runtimes. | Build, N | Apache-2.0 |
-| [WebContainers](https://webcontainers.io/) | A cloud development VM | A full Node.js environment in the browser (commercial licence). | B | Proprietary |
+| [WebContainers](https://github.com/stackblitz/webcontainer-core) | A cloud development VM | A full Node.js environment in the browser (commercial licence). | B | Proprietary |
 | [CheerpX](https://leaningtech.com/cheerpx/) | A remote Linux sandbox | x86 virtualization in the browser for Linux binaries (commercial terms). | B | Proprietary |
 
 ### Glue for client-side architecture
